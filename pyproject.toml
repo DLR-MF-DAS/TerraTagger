@@ -17,6 +17,7 @@ dependencies = [
     "click",
     "pdoc",
     "streamlit",
+    "watchdog",
 ]
 
 [project.urls]
