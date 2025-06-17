@@ -18,6 +18,9 @@ dependencies = [
     "pdoc",
     "streamlit",
     "watchdog",
+    "matplotlib",
+    "numpy",
+    "pandas",
 ]
 
 [project.urls]
